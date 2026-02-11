@@ -4,7 +4,7 @@ Automated hourly scanning for betting opportunities on Polymarket prediction mar
 
 ## Latest Scan Results
 
-**Last Scan:** 2026-02-11 09:05 UTC  
+**Last Scan:** 2026-02-11 10:02 UTC  
 **Markets Scanned:** 7,323  
 **Edges Found:** 100 unique opportunities  
 **Best Opportunity:** 1999.00x edge (Liquidity Imbalance)  
@@ -12,7 +12,7 @@ Automated hourly scanning for betting opportunities on Polymarket prediction mar
 ## Edge Categories
 
 - **Primary Edge Type:** Liquidity Imbalance
-- **Top Categories:** Sports/NHL markets with extreme liquidity imbalances
+- **Top Categories:** NBA MVP (Trae Young), Premier League finish (Everton, West Ham), NHL Western Conference (Vancouver Canucks), NBA Most Improved (Scoot Henderson)
 - **Detection Method:** Multi-factor analysis combining liquidity depth, volume patterns, and price inefficiencies
 
 ## How It Works
@@ -31,4 +31,4 @@ This dashboard is automatically updated every hour by scanning all active Polyma
 
 ---
 
-*Updated automatically via GitHub Actions - Last update: 2026-02-11 09:05 UTC*
+*Updated automatically via GitHub Actions - Last update: 2026-02-11 10:02 UTC*
