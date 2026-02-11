@@ -17,7 +17,7 @@ Automated hourly scanning of Polymarket prediction markets to identify high-valu
 
 | Metric | Value |
 |--------|-------|
-| **Scan Timestamp** | 2026-02-11 09:05 UTC |
+| **Scan Timestamp** | 2026-02-11 10:02 UTC |
 | **Markets Analyzed** | 7,323 |
 | **Total Opportunities** | 100 |
 | **Top Edge Score** | 1999.00x |
@@ -25,7 +25,7 @@ Automated hourly scanning of Polymarket prediction markets to identify high-valu
 
 ### Market Categories
 
-**Primary Focus:** NBA MVP markets, Premier League finish positions, NHL Western Conference
+**Primary Focus:** NBA MVP (Trae Young), Premier League finish (Everton, West Ham), NHL Western Conference (Vancouver Canucks), NBA Most Improved (Scoot Henderson)
 
 The edge detection algorithm analyzes:
 - Order book depth and liquidity distribution
@@ -66,6 +66,6 @@ Detailed opportunity breakdown available in the [Google Sheets Dashboard](https:
 
 ---
 
-*Last Updated: 2026-02-11 09:05 UTC*  
-*Next Scan: 2026-02-11 10:00 UTC*  
+*Last Updated: 2026-02-11 10:02 UTC*  
+*Next Scan: 2026-02-11 11:00 UTC*  
 *Automation: GitHub Actions + Nebula AI*
