@@ -17,15 +17,15 @@ Automated hourly scanning of Polymarket prediction markets to identify high-valu
 
 | Metric | Value |
 |--------|-------|
-| **Scan Timestamp** | 2026-02-11 05:02 UTC |
+| **Scan Timestamp** | 2026-02-11 06:00 UTC |
 | **Markets Analyzed** | 7,323 |
-| **Total Opportunities** | 94 |
+| **Total Opportunities** | 100 |
 | **Top Edge Score** | 1999.00x |
 | **Top Edge Type** | Liquidity Imbalance |
 
 ### Market Categories
 
-**Primary Focus:** Sports/NHL markets with extreme liquidity imbalances
+**Primary Focus:** NBA MVP markets, Premier League finish positions, NHL Western Conference
 
 The edge detection algorithm analyzes:
 - Order book depth and liquidity distribution
@@ -66,6 +66,6 @@ Detailed opportunity breakdown available in the [Google Sheets Dashboard](https:
 
 ---
 
-*Last Updated: 2026-02-11 05:02 UTC*  
-*Next Scan: 2026-02-11 06:00 UTC*  
+*Last Updated: 2026-02-11 06:00 UTC*  
+*Next Scan: 2026-02-11 07:00 UTC*  
 *Automation: GitHub Actions + Nebula AI*
