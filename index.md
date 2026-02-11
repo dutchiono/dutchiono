@@ -17,7 +17,7 @@ Automated hourly scanning of Polymarket prediction markets to identify high-valu
 
 | Metric | Value |
 |--------|-------|
-| **Scan Timestamp** | 2026-02-11 10:02 UTC |
+| **Scan Timestamp** | 2026-02-11 11:00 UTC |
 | **Markets Analyzed** | 7,323 |
 | **Total Opportunities** | 100 |
 | **Top Edge Score** | 1999.00x |
@@ -66,6 +66,6 @@ Detailed opportunity breakdown available in the [Google Sheets Dashboard](https:
 
 ---
 
-*Last Updated: 2026-02-11 10:02 UTC*  
-*Next Scan: 2026-02-11 11:00 UTC*  
+*Last Updated: 2026-02-11 11:00 UTC*  
+*Next Scan: 2026-02-11 12:00 UTC*  
 *Automation: GitHub Actions + Nebula AI*
