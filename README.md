@@ -1,16 +1,34 @@
-## Hi there 👋
+# Polymarket Edge Detection Dashboard
 
-<!--
-**dutchiono/dutchiono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automated hourly scanning for betting opportunities on Polymarket prediction markets.
 
-Here are some ideas to get you started:
+## Latest Scan Results
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Last Scan:** 2026-02-11 05:02 UTC  
+**Markets Scanned:** 7,323  
+**Edges Found:** 94 unique opportunities  
+**Best Opportunity:** 1999.00x edge (Liquidity Imbalance)  
+
+## Edge Categories
+
+- **Primary Edge Type:** Liquidity Imbalance
+- **Top Categories:** Sports/NHL markets with extreme liquidity imbalances
+- **Detection Method:** Multi-factor analysis combining liquidity depth, volume patterns, and price inefficiencies
+
+## How It Works
+
+This dashboard is automatically updated every hour by scanning all active Polymarket markets and identifying:
+
+1. **Liquidity Imbalances** - Markets with significant order book asymmetries
+2. **Volume Anomalies** - Unusual trading activity patterns
+3. **Price Inefficiencies** - Mispriced probabilities based on market fundamentals
+
+## Data Sources
+
+- Real-time market data from Polymarket API
+- Historical price and volume analysis
+- Automated edge scoring algorithm
+
+---
+
+*Updated automatically via GitHub Actions - Last update: 2026-02-11 05:02 UTC*
